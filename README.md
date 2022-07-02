@@ -1,1 +1,1 @@
-# reversar
+Primero se creo la funcion reversar entregandole un paramentro el cual es llamado cadena, en la cual utilizamos la funcion split("") que particiona toda la cadena en un arreglo, luego invertimos el arreglo con la funcion reverse() y para poder volver a unir el arreglo que anteriormente separamos ocupamos la funcion join(""). luego fuera de la funcion le asignamos una variable a la funcion junto a el texto que deseamos revertir e imprimimos por pantalla con en console.log.
